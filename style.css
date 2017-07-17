@@ -1,0 +1,176 @@
+*{
+padding:0;
+margin:0;
+}
+/*Heading*/
+.inline{
+display:inline;
+
+}
+.inlineblock{
+display:inline-block;
+
+}
+.wrapper{
+
+}
+.h2{
+  font-size: 35px;
+  margin-left: 18px;
+  font-family: serif;
+  padding-bottom: 13px;
+}
+.world{
+  width: 100px;
+  position: relative;
+  top: 25px;
+}
+.internet_title{
+margin-left: 103px;
+margin-top: -58px;
+font-size: 50px;
+}
+/*heading*/
+
+/*Colors*/
+.blue{
+  color:#487ca8;
+}
+.bluebg{
+  background-color:#487ca8;
+}
+.white{
+  color:white;
+}
+.bg_gradient_white{
+  background: linear-gradient(#e6e6e6,white);
+    width: 100%;
+    height: 100px;
+    padding-top: 13px;
+}
+.bgorange{
+  background-color:orange;
+}
+.lightblue{
+color:#4fcde2;
+}
+/*Colors*/
+
+/*Main content*/
+#phone{
+  position: relative;
+  left: 1097px;
+  width: 41px;
+  bottom: 26px;
+}
+.hr{
+width:30px;
+}
+.house{
+  width: 22px;
+    margin-left: 264px;
+    margin-top: 11px;
+    margin-right: 3px;
+}
+.contact_info{
+  margin: 1px 0px 0px 1153px;
+  position: relative;
+  bottom: 77px;
+  padding-right: 1px;
+}
+
+
+.border_sub_header{
+  border-bottom: 1px solid;
+  width: 79%;
+  margin-left: 276px;
+  position: relative;
+  bottom: 94px;
+}
+
+.fontsize_twenty_eight{
+  font-size:28px;
+}
+.client_server_section{
+    margin: 11px 55px 1px 298px;
+}
+#clientserver_image{
+margin-left: 224px;
+width: 421px;
+}
+/* Main content*/
+/*left nav content*/
+.buttons{
+  font-weight: bolder;
+  border-radius: 5px;
+  height: 30px;
+  width: 172px;
+  text-align: center;
+  margin-bottom: 5px;
+}
+.sectionmargin{
+  margin-bottom:10px;
+}
+.leftnav{
+  position: relative;
+  bottom: 474px;
+  margin-left: 38px;
+}
+.fongweight{
+  font-weight:bold;
+}
+.parapadding{
+  padding-bottom: 24px;
+}
+.ninjabg{
+  width: 170px;
+  margin-top: 20px;
+  padding-bottom: 34px;
+  height: 288px;
+}
+.ninja{
+  position: relative;
+  left: -152px;
+  width: 117px;
+  bottom: 86px;
+}
+
+.hr{
+  border-bottom: 1px solid;
+  width: 15%;
+  margin-left: -19px;
+  position: relative;
+  bottom: 1px;
+}
+.aligncenter{
+  text-align: center;
+  position: relative;
+  top: 101px;
+  font-size: 22px;
+  right: 721px;
+  color: white;
+}
+.navbutton{
+  position: relative;
+right: 260px;
+bottom: 51px;
+width: 99px;
+border-radius: 3px;
+height: 28px;
+color: white;
+}
+.footertitle{
+  margin-left: 388px;
+position: relative;
+top: 32px;
+}
+.htmlimage{
+  width: 115px;
+  margin-left: 248px;
+}
+.footerpara{
+  margin: 2px 376px 0px 372px;
+position: relative;
+bottom: 62px;
+}
+/*left nav content*/
