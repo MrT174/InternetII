@@ -142,13 +142,13 @@ width: 421px;
   position: relative;
   bottom: 1px;
 }
-.aligncenter{
-  text-align: center;
-  position: relative;
-  top: 101px;
-  font-size: 22px;
-  right: 721px;
-  color: white;
+.aligncenter{    
+text-align: center;
+    position: relative;
+    top: 101px;
+    font-size: 22px;
+    right: 577px;
+    color: white;
 }
 .navbutton{
   position: relative;
